@@ -58,10 +58,12 @@ pinKy - SoundEffects
 
 chill_man1 - guy who made story!
 
+
 ### Page Source
 
 - [HomePage](https://kadedevteam.github.io/WispRemixes/)
 - [Wisp Engine](https://kadedevteam.github.io/WispRemixes/WispEngine)
 - [Wisp Remixes](https://kadedevteam.github.io/WispRemixes/WispRemix)
-- [Changelogs]()
-- [Credits]()
+- [Changelogs](https://kadedevteam.github.io/Changelogs/)
+- [Credits](https://kadedevteam.github.io/WispRemixes/Credits)
+
