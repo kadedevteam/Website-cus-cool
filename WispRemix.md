@@ -28,12 +28,12 @@
 
 ![image](https://user-images.githubusercontent.com/84461200/128614595-3b95275a-91d4-4924-8fe2-c8cd020b4386.png)
 
-### Downloads
+## Downloads
 - [Gamebanana]()
 - [Itch.Io]()
 - [GoogleDrive]()
 - [Github]()
-### Website Additions
+## Website Builds
 - [HTML PLAYER]()
 - [Kbh Games]()
 - [craazzygames!]()
@@ -50,13 +50,11 @@ Kawaisprite - Musician
 
 ### **Wips Remix/Engine**
 
-CyanBoi - Programer and musicMaker
-
-Splots222 - Artist and Animtor
-
-pinKy - SoundEffects
-
-chill_man1 - guy who made story!
+* CyanBoi - Programer, Composer, Artist and Animator
+* BenRSomething - Artist (Icons and UI)
+* MWloing - Additinal Pixel Artist (Senpai and Icons)
+* pinKy - Additinal Composer
+* ch1ll_man1 - Storyboard Writer
 
 
 ### Page Source
@@ -66,4 +64,5 @@ chill_man1 - guy who made story!
 - [Wisp Remixes](https://kadedevteam.github.io/WispRemixes/WispRemix)
 - [Changelogs](https://kadedevteam.github.io/Changelogs/)
 - [Credits](https://kadedevteam.github.io/WispRemixes/Credits)
+- [OST](https://kadedevteam.github.io/WispRemixes/OST)
 
