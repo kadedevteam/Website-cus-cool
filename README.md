@@ -12,5 +12,6 @@
 - [Wisp Remixes](https://kadedevteam.github.io/WispRemixes/WispRemix)
 - [Changelogs](https://kadedevteam.github.io/Changelogs/)
 - [Credits](https://kadedevteam.github.io/WispRemixes/Credits)
+- [OST](https://kadedevteam.github.io/WispRemixes/OST)
 
 ### Use The Top To Move Around The Website
